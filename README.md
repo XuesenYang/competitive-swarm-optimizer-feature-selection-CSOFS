@@ -8,3 +8,6 @@ Implementation of a competitive swarm optimizer (CSO) for feature selction
   If you have any questions about the code, please contact:      
   Yang Xuesen at 1348825332@qq.com    
   Institution: Shenzhen University    
+  date:2019-7-12     
+  Stop loss timely~ 
+  
