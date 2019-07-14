@@ -1,4 +1,4 @@
-# competitive-swarm-optimizer-feature-selection-CSOFS-
+# competitive-swarm-optimizer-feature-selection-CSOFS
 Implementation of a competitive swarm optimizer (CSO) for feature selction
 
   Implementation of a competitive swarm optimizer (CSO) for feature selction   
